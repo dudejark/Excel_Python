@@ -1,0 +1,14 @@
+# Ignore Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+
+# Ignore Excel files (optional, if you don't want to push Excel files)
+*.xlsx
+
+# Ignore virtual environment folders
+venv/
+env/
